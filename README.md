@@ -9,4 +9,5 @@ Hola, soy Dai 🙋
 🔍 Tengo experiencia en el desarrollo y seguimiento de Modelos Predictivos, Análisis de Segmentación y Análisis de Text Mining. He realizado el análisis estadístico en múltiples tesinas de grado y posgrado y he dictado cursos de Estadística (Sociedad Argentina de Reumatología), cursos de Programación en R (UNR) y Capacitaciones en Ciencia de Datos o en plataformas BI como Tableau, Alteryx y Sap Analytics Cloud (Seidor Analytics).
 
 https://rpubs.com/daianaemili
+
 https://www.linkedin.com/in/daianaemili/
