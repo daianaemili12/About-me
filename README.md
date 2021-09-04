@@ -1,4 +1,4 @@
-# About me
+# Acerca de mí
 
 Hola, soy Dai 🙋
 
