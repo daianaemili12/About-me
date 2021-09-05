@@ -2,7 +2,7 @@
 
 Hola, soy Dai 🙋
 
-💬 Soy de Rosario. Estudié Licenciatura en Estadística en la UNR. Me gustan los desafíos, aprender nuevas técnicas y trabajar en equipo. 
+💬 Soy de Rosario. Estudié la Licenciatura en Estadística en la UNR. Me gustan los desafíos, aprender nuevas técnicas y trabajar en equipo. 
 Me considero una persona dinámica y proactiva, orientada a la resolución de problemas e interesada en el aprendizaje constante.
 
 📊 Codifico en R y Python, estoy certificada en Alteryx Designer Core y he trabajado con herramientas BI de SAP y Tableau.
