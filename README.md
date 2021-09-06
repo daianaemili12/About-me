@@ -9,7 +9,7 @@ Voy a estar guardando acá algunos de los códigos que uso frecuentemente a la h
 
 🔍 Perfil profesional: me considero una persona dinámica y proactiva, orientada a la resolución de problemas e interesada en el aprendizaje constante.
 Tengo experiencia en el desarrollo y seguimiento de modelos predictivos, análisis de segmentación y análisis de text mining. 
-He realizado el análisis estadístico en múltiples tesinas de grado y posgrado y he dictado cursos de estadística en la Sociedad Argentina de Reumatología, cursos de programación en R en la UNR y capacitaciones en ciencia de datos o en plataformas BI como Tableau, Alteryx y Sap Analytics Cloud en Seidor Analytics.
+He realizado el análisis estadístico en múltiples tesinas de grado y posgrado y he dictado cursos de estadística en la Sociedad Argentina de Reumatología, cursos de programación en R en la UNR y capacitaciones en ciencia de datos y en plataformas BI como Tableau, Alteryx y Sap Analytics Cloud en Seidor Analytics.
 
 https://rpubs.com/daianaemili
 
